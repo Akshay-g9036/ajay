@@ -1,4 +1,4 @@
 main() {
-	add2.c();
-	fact.c();
+	add2();
+	fact();
 } 

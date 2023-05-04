@@ -1,6 +1,5 @@
 #include<stdio.h>
-void fact()
-{
+void fact(){
  int i,fact=1,number;
  printf("Enter a number: ");
   scanf("%d",&number);
