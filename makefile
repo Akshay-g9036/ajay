@@ -1,5 +1,5 @@
-ABC.exe:main.0 add2.o fact.o
-	gcc -o ABC.exe main.0 add2.o fact.o
+ABC.exe:main.o add2.o fact.o
+	gcc -o ABC.exe main.o add2.o fact.o
 
 main.o:main.c
 	gcc -c main.c
